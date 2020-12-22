@@ -1,2 +1,2 @@
 # CSE676_DeepLearning
-Contains project done for CSE 676.
+Contains projects done for CSE 676.
